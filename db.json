@@ -1,4 +1,4 @@
-"data":
+{"data":
  {
   "items":[
   {
@@ -127,4 +127,5 @@
     "_limit":10,
     "totalRows":100
   }
+}
 }
